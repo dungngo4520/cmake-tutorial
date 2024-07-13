@@ -1,0 +1,6 @@
+// clang-format off
+#pragma once
+
+#define VERSION_MAJOR @library_VERSION_MAJOR@
+#define VERSION_MINOR @library_VERSION_MINOR@
+#define VERSION_PATCH @library_VERSION_PATCH@

@@ -1,0 +1,6 @@
+// clang-format off
+#pragma once
+
+#cmakedefine WINDOWS @WINDOWS@
+#cmakedefine LINUX @LINUX@
+#cmakedefine MACOS @MACOS@
